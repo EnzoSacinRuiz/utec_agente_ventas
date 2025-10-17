@@ -1,0 +1,6 @@
+langchain==0.3.7
+langchain-openai==0.2.9
+langchain-anthropic==0.3.0
+python-dotenv==1.0.0
+pydantic==2.10.3
+colorama==0.4.6
